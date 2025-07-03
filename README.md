@@ -52,6 +52,3 @@ employee-db-app
 ## Usage Guidelines
 - The application allows you to add new employees, view existing employee details, update employee information, and delete employees from the database.
 - Follow the on-screen instructions to navigate through the application.
-
-## License
-This project is licensed under the MIT License.
